@@ -1,0 +1,324 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "RV Cool 1L",
+      "categoria": "oleos",
+      "marca": "Aditivo",
+      "descricao": "DOT 4",
+      "imagem": "oleos/1.jpeg"
+    },
+    {
+      "id": 2,
+      "nome": "Tirreno Global 1L",
+      "categoria": "oleos",
+      "marca": "Aditivo",
+      "descricao": "Aditivo rosa 4L",
+      "imagem": "oleos/2.jpeg"
+    },
+    {
+      "id": 3,
+      "nome": "RV Extra 1L",
+      "categoria": "oleos",
+      "marca": "Aditivo",
+      "descricao": "Aditivo rosa 4L",
+      "imagem": "oleos/3.jpeg"
+    },
+    {
+      "id": 4,
+      "nome": "Paraflu 1L",
+      "categoria": "oleos",
+      "marca": "Aditivo",
+      "descricao": "Aditivo rosa 4L",
+      "imagem": "oleos/4.jpeg"
+    },
+    {
+      "id": 5,
+      "nome": "Valeo Protect 1L",
+      "categoria": "oleos",
+      "marca": "Aditivo",
+      "descricao": "Aditivo rosa 4L",
+      "imagem": "oleos/5.jpeg"
+    },
+     {
+      "id": 6,
+      "nome": "Água Desmineralizada 1L",
+      "categoria": "oleos",
+      "marca": "Aditivo",
+      "descricao": "Aditivo rosa 4L",
+      "imagem": "oleos/6.jpeg"
+    },
+     {
+      "id": 7,
+      "nome": "Bosch Dot 4 500ml",
+      "categoria": "oleos",
+      "marca": "Fluido de Freio",
+      "descricao": "Aditivo rosa 4L",
+      "imagem": "oleos/7.jpeg"
+    },
+     {
+      "id": 8,
+      "nome": "Bosch Dot 5.1 500ml",
+      "categoria": "oleos",
+      "marca": "Fluido de Freio",
+      "descricao": "Aditivo rosa 4L",
+      "imagem": "oleos/8.jpeg"
+    },
+     {
+      "id": 9,
+      "nome": "Desengripante Carlub Antiferrugem 300ml",
+      "categoria": "oleos",
+      "marca": "Limpeza",
+      "descricao": "Aditivo rosa 4L",
+      "imagem": "oleos/9.jpeg"
+    },
+     {
+      "id": 10,
+      "nome": "Radnaq Dot 4 500ml",
+      "categoria": "oleos",
+      "marca": "Fluido de Freio",
+      "descricao": "Aditivo rosa 4L",
+      "imagem": "oleos/10.jpeg"
+    },
+     {
+      "id": 11,
+      "nome": "Desengripante SuperLub 300ml",
+      "categoria": "oleos",
+      "marca": "Limpeza",
+      "descricao": "Aditivo rosa 4L",
+      "imagem": "oleos/11.jpeg"
+    },
+     {
+      "id": 12,
+      "nome": "Desengripante WD-40 300ml",
+      "categoria": "oleos",
+      "marca": "Limpeza",
+      "descricao": "Aditivo rosa 4L",
+      "imagem": "oleos/12.jpeg"
+    },
+     {
+      "id": 13,
+      "nome": "Espuma Limpadora Siege 400ml",
+      "categoria": "oleos",
+      "marca": "Limpeza",
+      "descricao": "Aditivo rosa 4L",
+      "imagem": "oleos/13.jpeg"
+    },
+     {
+      "id": 14,
+      "nome": "Limpa Contato Elétrico Siege 300ml",
+      "categoria": "oleos",
+      "marca": "Limpeza",
+      "descricao": "Aditivo rosa 4L",
+      "imagem": "oleos/14.jpeg"
+    },
+     {
+      "id": 15,
+      "nome": "Pasta Desengraxante 2,6Kg",
+      "categoria": "oleos",
+      "marca": "Limpeza",
+      "descricao": "Aditivo rosa 4L",
+      "imagem": "oleos/15.jpeg"
+    },
+     {
+      "id": 16,
+      "nome": "Querosene 800ml",
+      "categoria": "oleos",
+      "marca": "Limpeza",
+      "descricao": "Aditivo rosa 4L",
+      "imagem": "oleos/16.jpeg"
+    },
+     {
+      "id": 17,
+      "nome": "Graxa Azul Radnaq 500g ",
+      "categoria": "oleos",
+      "marca": "Lubrificantes",
+      "descricao": "Aditivo rosa 4L",
+      "imagem": "oleos/17.jpeg"
+    },
+     {
+      "id": 18,
+      "nome": "Graxa Bisnaga 80g",
+      "categoria": "oleos",
+      "marca": "Lubrificantes",
+      "descricao": "Aditivo rosa 4L",
+      "imagem": "oleos/18.jpeg"
+    },
+     {
+      "id": 19,
+      "nome": "Condicionador Sintético Militec 200ml",
+      "categoria": "oleos",
+      "marca": "Lubrificantes",
+      "descricao": "Aditivo rosa 4L",
+      "imagem": "oleos/19.jpeg"
+    },
+     {
+      "id": 20,
+      "nome": "Óleo Cambio 75W80 Totalenergies 1L ",
+      "categoria": "oleos",
+      "marca": "Lubrificantes",
+      "descricao": "Aditivo rosa 4L",
+      "imagem": "oleos/20.jpeg"
+    },
+     {
+      "id": 21,
+      "nome": "Óleo Cambio 80W Ipiranga 1L Ultragear Oem",
+      "categoria": "oleos",
+      "marca": "Lubrificantes",
+      "descricao": "Aditivo rosa 4L",
+      "imagem": "oleos/21.jpeg"
+    },
+     {
+      "id": 22,
+      "nome": "Óleo Cambio 80W90 Ipiranga 1L Gl-5",
+      "categoria": "oleos",
+      "marca": "Lubrificantes",
+      "descricao": "Aditivo rosa 4L",
+      "imagem": "oleos/22.jpeg"
+    },
+     {
+      "id": 23,
+      "nome": "Óleo Cambio Maxi SAE 75W90 1L Gear Top",
+      "categoria": "oleos",
+      "marca": "Lubrificantes",
+      "descricao": "Aditivo rosa 4L",
+      "imagem": "oleos/23.jpeg"
+    },
+     {
+      "id": 24,
+      "nome": "Óleo Fluido Atf Transmissão 1L",
+      "categoria": "oleos",
+      "marca": "Lubrificantes",
+      "descricao": "Aditivo rosa 4L",
+      "imagem": "oleos/24.jpeg"
+    },
+     {
+      "id": 25,
+      "nome": "Óleo Motor 5W30 Syntium 1L",
+      "categoria": "oleos",
+      "marca": "Lubrificantes",
+      "descricao": "Aditivo rosa 4L",
+      "imagem": "oleos/25.jpeg"
+    },
+     {
+      "id": 26,
+      "nome": "Óleo Motor Sae 5W30 Radnaq 1L",
+      "categoria": "oleos",
+      "marca": "Lubrificantes",
+      "descricao": "Aditivo rosa 4L",
+      "imagem": "oleos/26.jpeg"
+    },
+     {
+      "id": 27,
+      "nome": "Óleo Motor 5W30 Elf Evolution 1L",
+      "categoria": "oleos",
+      "marca": "Lubrificantes",
+      "descricao": "Aditivo rosa 4L",
+      "imagem": "oleos/27.jpeg"
+    },
+     {
+      "id": 28,
+      "nome": "Óleio Motor 5W30 Lubrax 1L C2/C3",
+      "categoria": "oleos",
+      "marca": "Lubrificantes",
+      "descricao": "Aditivo rosa 4L",
+      "imagem": "oleos/28.jpeg"
+    },
+     {
+      "id": 29,
+      "nome": "Óleo Motor 5W30 Motorcraft 1L",
+      "categoria": "oleos",
+      "marca": "Lubrificantes",
+      "descricao": "Aditivo rosa 4L",
+      "imagem": "oleos/29.jpeg"
+    },
+     {
+      "id": 30,
+      "nome": "Óleo Motor 5W30 Motrio 1L Ultra C4",
+      "categoria": "oleos",
+      "marca": "Lubrificantes",
+      "descricao": "Aditivo rosa 4L",
+      "imagem": "oleos/30.jpeg"
+    },
+     {
+      "id": 31,
+      "nome": "Óleo Motor 0W30 TotalEnergies 1L",
+      "categoria": "oleos",
+      "marca": "Lubrificantes",
+      "descricao": "Aditivo rosa 4L",
+      "imagem": "oleos/31.jpeg"
+    },
+     {
+      "id": 32,
+      "nome": "Óleo Motor 5W30 Ipiranga 1L F1 Master ",
+      "categoria": "oleos",
+      "marca": "Lubrificantes",
+      "descricao": "Aditivo rosa 4L",
+      "imagem": "oleos/32.jpeg"
+    },
+     {
+      "id": 33,
+      "nome": "Óleio Motor 15W40 Lubrax 1L",
+      "categoria": "oleos",
+      "marca": "Lubrificantes",
+      "descricao": "Aditivo rosa 4L",
+      "imagem": "oleos/33.jpeg"
+    },
+     {
+      "id": 34,
+      "nome": "Óleio Motor 15W40 Urania 3000se 1L",
+      "categoria": "oleos",
+      "marca": "Lubrificantes",
+      "descricao": "Aditivo rosa 4L",
+      "imagem": "oleos/34.jpeg"
+    },
+     {
+      "id": 35,
+      "nome": "Óleio Motor 15W40 Urania 3000se 4L",
+      "categoria": "oleos",
+      "marca": "Lubrificantes",
+      "descricao": "Aditivo rosa 4L",
+      "imagem": "oleos/35.jpeg"
+    },
+     {
+      "id": 36,
+      "nome": "Óleio Motor 15W40 Lubrax 3L",
+      "categoria": "oleos",
+      "marca": "Lubrificantes",
+      "descricao": "Aditivo rosa 4L",
+      "imagem": "oleos/36.jpeg"
+    },
+     {
+      "id": 37,
+      "nome": "Óleio Motor 15W40 Lubrax Balde 20L",
+      "categoria": "oleos",
+      "marca": "Lubrificantes",
+      "descricao": "Aditivo rosa 4L",
+      "imagem": "oleos/37.jpeg"
+    },
+     {
+      "id": 38,
+      "nome": "Óleio Motor 15W40 CI-4 Radnaq 1L",
+      "categoria": "oleos",
+      "marca": "Lubrificantes",
+      "descricao": "Aditivo rosa 4L",
+      "imagem": "oleos/38.jpeg"
+    },
+     {
+      "id": 39,
+      "nome": "Paraflu 5L",
+      "categoria": "oleos",
+      "marca": "Aditivo",
+      "descricao": "Aditivo rosa 4L",
+      "imagem": "oleos/39.jpeg"
+    },
+     {
+      "id": 40,
+      "nome": "Radnaq Ultra PS 5L",
+      "categoria": "oleos",
+      "marca": "Aditivo",
+      "descricao": "Aditivo rosa 4L",
+      "imagem": "oleos/40.jpeg"
+    }
+  ]
+}

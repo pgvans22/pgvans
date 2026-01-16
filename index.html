@@ -1,0 +1,71 @@
+<html>
+    <head>
+        <title>PG VANS</title>
+        <link rel="icon" href="assets/logo/icon.ico" type="image/x-icon">
+        <link rel="stylesheet" href="assets/style.css">
+        <script src="scripts/index.js"></script>
+</head>
+
+<body>
+<header class="topo-site">
+  <h1>Catálogo de Peças</h1>
+</header>
+
+<div class="banner">
+  <img src="../assets/categorias/banner.JPG" alt="Banner PG VANS">
+  <div class="video-overlay">
+    <video controls>
+      <source src="../assets/videos/sobre.mp4" type="video/mp4">
+      Seu navegador não suporta vídeos HTML5.
+    </video>
+  </div>
+</div>
+
+<div class="container">
+    <div class="search-box">
+        <input id="search" type="text" placeholder="Pesquisar categorias..." onkeyup="searchCategories()">
+    </div>
+
+  <div id="modalProduto" class="modal">
+  <div class="modal-content">
+    <span id="fecharModal" class="close">&times;</span>
+    <img id="modalImg">
+    <h2 id="modalNome"></h2>
+    <p id="modalMarca"></p>
+    <p id="modalDescricao"></p>
+  </div>
+</div>
+
+<div class="container"><div class="grid">
+
+<a href="pages/freios.html"><div class="card">
+<img src="assets/categorias/pastilha.jpg">
+<div class="title">Freios</div>
+</div></a>
+
+<a href="pages/motor.html"><div class="card">
+<img src="assets/categorias/motor.jpg">
+<div class="title">Motor</div>
+</div></a>
+
+<a href="pages/suspensao.html"><div class="card">
+<img src="assets/categorias/suspensao.jpg">
+<div class="title">Suspensão</div>
+ </div>
+  </a>
+
+<a href="pages/transmissao.html"><div class="card">
+<img src="assets/categorias/transmissao.jpg">
+<div class="title">Transmissão</div>
+</div>
+</a>
+
+<a href="pages/oleos.html"><div class="card">
+<img src="assets/categorias/oleo2.jpg">
+<div class="title">Óleos</div>
+</div>
+</a>
+ </div>
+  </div>
+</body>
+</html>

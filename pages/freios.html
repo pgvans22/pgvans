@@ -1,0 +1,60 @@
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Freios</title>
+  <link rel="icon" href="../assets/logo/icon.ico" type="image/x-icon">
+  <link rel="stylesheet" href="../assets/style.css">
+</head>
+<body onload="carregarProdutos('../data/produtos-freios.json')">
+  
+<header class="topo-site">
+  <h1>Catálogo de Peças</h1>
+</header>
+
+<div class="banner">
+  <img src="../assets/categorias/banner.JPG" alt="Banner PG VANS">
+</div>
+
+<div class="menu-categorias">
+  <a href="../pages/freios.html"><button type="button">Freios</button></a>
+  <a href="../pages/motor.html"><button type="button">Motor</button></a>
+  <a href="../pages/oleos.html"><button type="button">Óleo</button></a>
+  <a href="../pages/suspensao.html"><button type="button">Suspensão</button></a>
+  <a href="../pages/transmissao.html"><button type="button">Transmissão</button></a>
+</div>
+
+<div class="search-box">
+  <input id="searchCat" type="text" placeholder="Pesquisar produtos..." />
+</div>
+
+<div class="container-categorias">
+  <!-- Sidebar -->
+  <div class="sidebar-filtros">
+    <h3>Marcas</h3>
+    <div id="marcasFiltro" class="filtro-checkbox"></div>
+
+    <h3>Subgrupos</h3>
+    <div id="subgruposFiltro" class="filtro-checkbox"></div>
+  </div>
+
+  <!-- Lista de produtos -->
+  <div id="listaProdutos" class="produtos-container"></div>
+</div>
+
+
+<!-- Modal -->
+<div id="modalProduto" class="modal">
+  <div class="modal-content">
+    <span id="fecharModal" class="close">&times;</span>
+    <img id="modalImg">
+    <h2 id="modalNome"></h2>
+    <p id="modalMarca"></p>
+    <p id="modalDescricao"></p>
+  </div>
+</div>
+
+<script src="../scripts/categorias.js"></script>
+<script src="../scripts/produtos-freios.js"></script>
+
+</body>
+</html>

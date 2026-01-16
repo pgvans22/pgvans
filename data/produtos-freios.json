@@ -1,0 +1,196 @@
+{
+  "produtos": [
+    {
+     "id": 41,
+     "nome": "PASTILHA DIANT/ SYL DUCATO ARO 15",
+     "marca": "Fiat Ducato",
+     "subgrupo": "Pastilhas",
+     "descricao": "DUCATO 2.5 ARO 15 ATÉ 2002",
+     "imagem": "freios/41.jpeg"
+    },
+    {
+     "id": 42,
+     "nome": "PASTILHA DIANT/ SYL DUCATO ARO 16",
+     "marca": "Fiat Ducato",
+     "subgrupo": "Pastilhas",
+     "descricao": "Fiat Ducato 2.8 8V 2000/2009 \nPeugeot Boxer 2.5 8V 1999/2002",
+     "imagem": "freios/42.jpeg"
+    },
+    {
+     "id": 43,
+     "nome": "PASTILHA DIANT/ SYL HYUNDAI H100",
+     "marca": "Hyundai",
+     "subgrupo": "Pastilhas",
+     "descricao": "HYUNDAI H100 1994/1997",
+     "imagem": "freios/43.jpeg"
+    },
+    {
+     "id": 44,
+     "nome": "PASTILHA DIANT/ SYL IVECO DAILY 5012/5912 C/SENSOR",
+     "marca": "Iveco Daily",
+     "subgrupo": "Pastilhas",
+     "descricao": "Iveco Daily 5012/5912 de 1990/1997 \nIveco Daily 5912 2001/... \nIveco Daily 6012/7012 2003/... \nIveco Daily 7013 2006/2007 \nIveco Scudato 5912 2001/...",
+     "imagem": "freios/44.jpeg"
+    },
+    {
+     "id": 45,
+     "nome": "PASTILHA TRAS/ SYL IVECO DAILY 35S14 2007 C/SENSOR",
+     "marca": "Iveco Daily",
+     "subgrupo": "Pastilhas",
+     "descricao": "IVECO DAILY : 35S14 2007/...",
+     "imagem": "freios/45.jpeg"
+    },
+    {
+     "id": 46,
+     "nome": "PASTILHA DIANT/ SYL KIA BESTA GS",
+     "marca": "OUTRAS MARCAS",
+     "subgrupo": "Pastilhas",
+     "descricao": "GRAND BESTA 3.0 2003/...",
+     "imagem": "freios/46.jpeg"
+    },
+    {
+     "id": 47,
+     "nome": "PASTILHA DIANT/ SYL KIA BESTA FURGÃO",
+     "marca": "OUTRAS MARCAS",
+     "subgrupo": "Pastilhas",
+     "descricao": "Ducato 2.3 16V 2009/2023\nDucato 2.8 8V 2003/2009\nKia Besta 2.7 8V 1997/2005\nBesta Furgão 1999\nBongo 2.5 16V 2013/2025\nCarnival 2.5 24V V6 1998/2006",
+     "imagem": "freios/47.jpeg"
+    },
+    {
+     "id": 48,
+     "nome": "PASTILHA DIANT/ SYL SPRINTER 310",
+     "marca": "Mercedes Sprinter",
+     "subgrupo": "Pastilhas",
+     "descricao": "Sprinter 310 2.5 8V 2000/2001\nSprinter 311 2.2 16V 2002/2016\nSprinter 312 2.5 8V 1999/2001\nSprinter 313 2.2 16V 2017/2022\nSprinter 412 2.5 8V 2000/2001\nSprinter 413 2.2 16V 2002/2013",
+     "imagem": "freios/48.jpeg"
+    },
+    {
+     "id": 49,
+     "nome": "PASTILHA DIANT/ SYL CITROEN JUMPY",
+     "marca": "Citroën Jumper/Jumpy",
+     "subgrupo": "Pastilhas",
+     "descricao": "CITROEN: Jumpy 1.6 Hdi 2007\nCITROEN: Jumpy 2.0 Hdi 2007\nCITROEN: Jumpy 2.0i 2007\nFIAT: Scudo 1.6 Multijet 2007\nFIAT: Scudo 2.0 Multijet 2007\nPEUGEOT: Expert 1.6 Multijet 2007\nPEUGEOT: Expert 2.0 16V 2007\nPEUGEOT: Expert 2.0 Multijet 2007",
+     "imagem": "freios/49.jpeg"
+    },
+    {
+     "id": 50,
+     "nome": "PASTILHA DIANT/ SYL RENAULT MASTER 2.5",
+     "marca": "Renault Master",
+     "subgrupo": "Pastilhas",
+     "descricao": "Renault Master 1.9 TDI 2000/2012\nRenault Master 2.2 CDI 16v 2000/2012\nRenault Master 2.5 D 2000/2012\nRenault Master 2.8 D 2000/2012\nRenault Master 2.8 DTI 2000/2012",
+     "imagem": "freios/50.jpeg"
+    },
+    {
+     "id": 51,
+     "nome": "PASTILHA TRAS/ SYL RENAULT MASTER 2.5",
+     "marca": "Renault Master",
+     "subgrupo": "Pastilhas",
+     "descricao": "Master 2.5  10/2002/2012\nMaster 2.8  10/2002/2012",
+     "imagem": "freios/51.jpeg"
+    },
+    {
+     "id": 52,
+     "nome": "SAPATA DE FREIO SYL DUCATO 2.3/2.5",
+     "marca": "Fiat Ducato",
+     "subgrupo": "Pastilhas",
+     "descricao": "Ducato 2.3 16V 2009/2018\nDucato 2.8 8V 2005/2009",
+     "imagem": "freios/52.jpeg"
+    },
+    {
+     "id": 53,
+     "nome": "SAPATA DE FREIO SYL IVECO 2.8",
+     "marca": "Iveco Daily",
+     "subgrupo": "Pastilhas",
+     "descricao": "IVECO DAILY : Daily 3510 2.8 8V 1999/2007\nDaily 3513 2.8 8V 2005/2007\nDaily 35S14 3.0 16V 2008/2017\nDaily 3813 2.8 8V 2005/2007\nDaily 4012 2.8 8V 1999/2007\nDaily 4013 2.8 8V 2005/2007\nDaily 45S14 3.0 16V 2008/2011\nDaily 45S16 2.8 8V 2008/2010\nDaily 45S17 3.0 16V 2013/2025\nDaily 4912 2.8 8V 1999/2007\nDaily 5013 2.8 8V 2005/2007\nDaily 55C16 3.0 16V 2008/2011\nDaily 55C17 3.0 16V 2013/2025",
+     "imagem": "freios/53.jpeg"
+    },
+    {
+     "id": 54,
+     "nome": "SAPATA DE FREIO SYL HYUNDAI FURGÃO 2.5",
+     "marca": "Hyundai",
+     "subgrupo": "Pastilhas",
+     "descricao": "Hyundai H 100 Furgão 2.5 8v Aspirado 75 Cv 1994\nHyundai H 100 Van 2.5 8v Aspirado 78 Cv 1995/2000\nKia Bongo K-2700 2p 4x2 2.7 8v 80 Cv 2003",
+     "imagem": "freios/54.jpeg"
+    },
+    {
+     "id": 55,
+     "nome": "",
+     "marca": "",
+     "subgrupo": "Pastilhas",
+     "descricao": "",
+     "imagem": "freios/55.jpeg"
+    },
+    {
+     "id": 56,
+     "nome": "",
+     "marca": "",
+     "subgrupo": "Pastilhas",
+     "descricao": "",
+     "imagem": "freios/56.jpeg"
+    },
+    {
+     "id": 57,
+     "nome": "",
+     "marca": "",
+     "subgrupo": "Pastilhas",
+     "descricao": "",
+     "imagem": "freios/57.jpeg"
+    },
+    {
+     "id": 58,
+     "nome": "",
+     "marca": "",
+     "subgrupo": "Pastilhas",
+     "descricao": "",
+     "imagem": "freios/58.jpeg"
+    },
+    {
+     "id": 59,
+     "nome": "",
+     "marca": "",
+     "subgrupo": "Pastilhas",
+     "descricao": "",
+     "imagem": "freios/59.jpeg"
+    },
+    {
+     "id": 60,
+     "nome": "",
+     "marca": "",
+     "subgrupo": "Pastilhas",
+     "descricao": "",
+     "imagem": "freios/60.jpeg"
+    },
+    {
+     "id": 61,
+     "nome": "",
+     "marca": "",
+     "subgrupo": "Pastilhas",
+     "descricao": "",
+     "imagem": "freios/61.jpeg"
+    },
+    {
+     "id": 62,
+     "nome": "",
+     "marca": "",
+     "subgrupo": "Pastilhas",
+     "descricao": "",
+     "imagem": "freios/62.jpeg"
+    },
+    {
+     "id": 63,
+     "nome": "",
+     "marca": "",
+     "subgrupo": "Pastilhas",
+     "descricao": "",
+     "imagem": "freios/63.jpeg"
+    },
+    {
+     "id": 64,
+     "nome": "",
+     "marca": "",
+     "subgrupo": "Pastilhas",
+     "descricao": "",
+     "imagem": "freios/64.jpeg"
+    }
+  ]
+}

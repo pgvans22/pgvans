@@ -1,0 +1,20 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "RV Cool 1L",
+      "categoria": "oleos",
+      "marca": "Aditivo",
+      "descricao": "DOT 4",
+      "imagem": "oleos/1.jpeg"
+    },
+    {
+      "id": 2,
+      "nome": "Tirreno Global 1L",
+      "categoria": "oleos",
+      "marca": "Aditivo",
+      "descricao": "Aditivo rosa 4L",
+      "imagem": "oleos/2.jpeg"
+    }
+  ]
+}
