@@ -1,0 +1,253 @@
+/* --- Layout global --- */
+body {
+    font-family: Arial;
+    background: #f5f5f5;
+    margin: 0;
+}
+
+header {
+    background: #222;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+.container {
+    max-width: 1000px;
+    margin: auto;
+    padding: 20px;
+}
+
+/* --- Grid de categorias --- */
+.grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 20px;
+}
+
+.card {
+    background: #fff;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    transition: 0.2s;
+}
+.card:hover {
+    transform: scale(1.03);
+}
+
+.card img {
+    width: 100%;
+    height: 190px;
+    object-fit: cover;
+    border-radius: 8px 8px 0 0;
+    background-color: #5a5555;
+}
+.card .title {
+    text-align: center;
+    padding: 10px;
+    font-weight: bold;
+    font-size: 18px;
+    margin-top: 8px;
+}
+
+/* --- Busca e filtros --- */
+.search-box {
+    margin: 20px 0;
+    text-align: center;
+}
+.search-box input {
+    width: 90%;
+    max-width: 500px;
+    padding: 12px;
+    font-size: 16px;
+    border-radius: 8px;
+    border: 1px solid #4506f2;
+}
+
+/* --- Filtros em quadrados (checkboxes) --- */
+.filtro-checkbox {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin-bottom: 20px;
+}
+
+.checkbox-item {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 14px;
+}
+
+.checkbox-item input[type="checkbox"] {
+  width: 16px;
+  height: 16px;
+  cursor: pointer;
+}
+
+.sidebar-filtros {
+  background: #f7f7f7;
+  border: 1px solid #3207ef;
+  border-radius: 8px;
+  padding: 16px;
+  max-height: 400px; /* ou o valor que quiser */ 
+  overflow-y: auto; /* adiciona rolagem se passar do limite */
+}
+
+/* --- Layout categorias com sidebar --- */
+.container-categorias {
+  display: grid;
+  grid-template-columns: 260px 1fr; /* sidebar + produtos */
+  gap: 20px;
+  max-width: 1200px;
+  margin: auto;
+  padding: 20px;
+}
+
+/* --- Produtos --- */
+.produtos-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* 3 colunas fixas */
+  gap: 20px;
+  padding: 20px;
+}
+
+.produto-item {
+  background: #ffffff;
+  text-align: center;
+  cursor: pointer;
+  padding: 10px;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  transition: transform 0.2s;
+}
+
+.produto-item:hover {
+  transform: scale(1.02);
+}
+
+.produto-item img {
+  width: 100%;
+  height: 240px; /* altura mais proporcional */
+  object-fit: cover;
+  border-radius: 6px;
+  background-color: #8b8484;
+}
+
+.produto-item h3 {
+  font-size: 14px;
+  margin: 10px 0 5px;
+}
+
+/* --- Modal --- */
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 999;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,0.7);
+    align-items: center;
+    justify-content: center;
+}
+
+.modal-content {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    width: 90%;
+    max-width: 500px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.3);
+    text-align: center;
+}
+
+.close {
+    color: #d30202df;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.close:hover {
+    color: #000;
+}
+
+#modalImg {
+    max-width: 100%;
+    height: auto;
+    max-height: 300px;
+    margin-bottom: 15px;
+    border-radius: 6px;
+}
+
+/* --- Banner --- */
+.banner img {
+   width: 100%; 
+   aspect-ratio: 16 / 6.3; /* equivalente a 2560x1011 */ 
+   object-fit: cover;
+}
+
+.menu-categorias {
+  text-align: center;
+  margin: 30px 0;
+}
+
+.menu-categorias a {
+  display: inline-block;
+  margin: 10px;
+}
+
+.menu-categorias button {
+  padding: 12px 20px;
+  font-size: 16px;
+  border-radius: 8px;
+  border: none;
+  background-color: #444;
+  color: #ffffff;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.menu-categorias button:hover {
+  background-color: #666;
+}
+
+/*sobre o video */
+.banner {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 16 / 6.3;
+  overflow: hidden;
+}
+
+.banner img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.video-overlay {
+  position: absolute;
+  top: 70%;         /* mais próximo do para-choque */
+  right: 55%;        /* ajusta a distância da borda direita */
+  transform: translateY(-50%);
+  width: 500px;     /* aumenta o tamanho do vídeo */
+  max-width: 90%;
+}
+
+.video-overlay video {
+  width: 100%;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+}
+
+/* --- Responsividade --- */
+@media (max-width: 1200px) {
+    .produtos-container {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
